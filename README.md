@@ -2,7 +2,7 @@
 
 [![R version](https://img.shields.io/badge/R-%3E=4.0-blue.svg)](https://www.r-project.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/miacarboni-creator/CompuDataAnalysis)](https://github.com/miacarboni-creator/CompuDataAnalysis/releases)
+[![Version](https://img.shields.io/badge/version-0.0.0-blue)](https://github.com/miacarboni-creator/CompuDataAnalysis)
 
 **CompuDataAnalysis** is an R package for high-throughput data manipulation, aggregation, 
 and performance benchmarking across bioinformatics and clinical datasets.
