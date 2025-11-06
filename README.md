@@ -13,8 +13,4 @@ for transforming, joining, and analyzing large-scale tabular data efficiently.
 To install the package directly from GitHub:
 
 ```r
-# If you don't have devtools:
-install.packages("devtools")
-
-# Then install CompuDataAnalysis
-devtools::install_github("miacarboni-creator/CompuDataAnalysis")
+RUN R -e "install.packages('https://github.com/miacarboni-creator/CompuDataAnalysis/raw/main/CompuDataAnalysis_0.0.0.9000_.tar', repos = NULL, type = 'source')"
